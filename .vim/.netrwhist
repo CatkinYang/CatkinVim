@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/catkin/PowerVim'
+let g:netrw_dirhist_4='/Users/catkin'
+let g:netrw_dirhist_3='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/epoll_ET_LT'
+let g:netrw_dirhist_2='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/epoll_ET_LT/3-noblock_epoll'
+let g:netrw_dirhist_1='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/epoll_ET_LT/2-block_epoll'
+let g:netrw_dirhist_0='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/select_concurrent'
+let g:netrw_dirhist_9='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent'
+let g:netrw_dirhist_8='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/test'
+let g:netrw_dirhist_7='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/test/select_con'
+let g:netrw_dirhist_6='/Users/catkin/Study/blackHorse/linuxIntProg/select/moreIO_concurrent/select_concurrent'
